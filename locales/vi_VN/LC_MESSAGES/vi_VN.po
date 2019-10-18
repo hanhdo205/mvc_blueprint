@@ -1,0 +1,2272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mvc_bluprint\n"
+"POT-Creation-Date: 2019-10-17 16:41+0700\n"
+"PO-Revision-Date: 2019-10-17 16:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: hanhdo205@gmail.com\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;T_;T_ngettext\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: public/admin/vendors\n"
+"X-Poedit-SearchPathExcluded-1: public/admin/js\n"
+"X-Poedit-SearchPathExcluded-2: phpgettext\n"
+
+#: admin/controller/LoginController.class.php:19
+msgid "Check your information !"
+msgstr "Kiểm tra lại thông tin !"
+
+#: admin/controller/LoginController.class.php:22
+msgid "Fill in the fields please !"
+msgstr "Vui lòng nhập thông tin !"
+
+#: admin/view/login.php:36
+msgid "Error"
+msgstr "Lỗi"
+
+#: admin/view/main.php:716
+#, php-format
+msgid "This is an admin page - %s"
+msgstr "Đây là trang admin - %s"
+
+#~ msgid ""
+#~ "This is how the story goes.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Đây là cách câu chuyện diễn ra.\n"
+#~ "\n"
+
+#~ msgid "Your account has been activated successfully. You can now login."
+#~ msgstr "Tài khoản của bạn đã được kích hoạt. Bây giờ bạn có thể đăng nhập."
+
+#~ msgid "Login <a href=\"/%s\">here</a>"
+#~ msgstr "Đăng nhập <a href=\"/%s\">tại đây</a>"
+
+#~ msgid "Your account activated"
+#~ msgstr "Tai khoan da duoc kich hoat"
+
+#~ msgid "Login"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "Password"
+#~ msgstr "Mật khẩu"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Username"
+#~ msgstr "Tên đăng nhập"
+
+#~ msgid "User ID"
+#~ msgstr "ID người dùng"
+
+#~ msgid "[]Your account activated"
+#~ msgstr "Tai khoan da duoc kich hoat"
+
+#~ msgid "For security reasons, when you receive a confirm registration email, you must click on the button/link and take action within 1 day"
+#~ msgstr "Lưu ý : nhằm nâng cao tính bảo mật tài khoản của khách hàng nên <br>thời gian kích hoạt tài khoản chỉ có hiệu lực trong vòng 24 giờ kể từ khi bắt đầu tạo tài khoản . Xin cảm ơn"
+
+#~ msgid "Back to <a href=\"/%s\">login page</a>"
+#~ msgstr "Quay lại trang <a href=\"/%s\">đăng nhập</a>"
+
+#~ msgid "Active"
+#~ msgstr "Kich hoạt"
+
+#~ msgid "Congratulations"
+#~ msgstr "Xin chúc mừng"
+
+#~ msgid "Your token has expired"
+#~ msgstr "Tài khoản này đã được kích hoạt hoặc thời gian kích hoạt tài khoản đã hết"
+
+#~ msgid "Dear %s"
+#~ msgstr "Kính gởi %s"
+
+#~ msgid "New password"
+#~ msgstr "Mật khẩu mới"
+
+#, fuzzy
+#~| msgid "Password changed"
+#~ msgid "[] Password changed"
+#~ msgstr "Mật khẩu đã được thay đổi"
+
+#~ msgid "Password changed"
+#~ msgstr "Mật khẩu đã được thay đổi"
+
+#~ msgid "Change password successfull. Please check your mail for information"
+#~ msgstr "Đã thay đổi mật khẩu thành công. Vui lòng kiểm tra lại email để biết thêm thông tin"
+
+#~ msgid "Change your password failure. Please again"
+#~ msgstr "Đổi mật khẩu không thành công . Xin thử lại"
+
+#~ msgid "Change Password"
+#~ msgstr "Đổi mật khẩu"
+
+#~ msgid "News password"
+#~ msgstr "Mật khẩu mới"
+
+#~ msgid "Send"
+#~ msgstr "Gởi"
+
+#~ msgid "Already have account?"
+#~ msgstr "Bạn đã có tài khoản?"
+
+#~ msgid "Sign In"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "Reset Password"
+#~ msgstr "Thay đổi mật khẩu"
+
+#~ msgid "We have received a request to reset your password. Please click the button as below to reset your password."
+#~ msgstr "Chúng tôi nhận được yêu cầu đổi mật khẩu. Nếu bạn không yêu cầu, hãy bỏ qua email này. Ngược lại, bạn có thể đặt lại mật khẩu theo link bên dưới."
+
+#~ msgid "※ The link will be valid for 24 hours. If you did not make this request, you can just ignore this email."
+#~ msgstr "※ Xin lưu ý thời hạn thay đổi mật khẩu trong vòng 24 giờ nếu quá 24 giờ thì không thể thay đổi mật khẩu . Nếu không thay đổi mật khẩu thì vui lòng không bấm vào nút đổi mật khẩu và hãy xóa mail này ."
+
+#~ msgid "[]Please reset your password"
+#~ msgstr "Vui lòng cài đặt lại mật khẩu"
+
+#~ msgid "Please reset your password"
+#~ msgstr "Vui lòng cài đặt lại mật khẩu"
+
+#~ msgid "A message was send to your email address containing a link to reset your password."
+#~ msgstr "Một tin nhắn đã được gửi đến email của bạn, trong đó có chứa một liên kết để đặt lại mật khẩu."
+
+#~ msgid "Unable to reset your password. Please try again"
+#~ msgstr "Không thể đặt lại mật khẩu . Xin thử lại"
+
+#~ msgid "User doesn't exits"
+#~ msgstr "Người dùng không tồn tại"
+
+#~ msgid "Forget Password"
+#~ msgstr "Quên mật khẩu"
+
+#~ msgid "Did you forget your password?"
+#~ msgstr "Bạn lỡ quên mật khẩu đăng nhập?"
+
+#~ msgid "Provide your email that you used to register. We will send you information on how to reset your password."
+#~ msgstr "Hãy nhập địa chỉ email vào ô bên dưới. Chúng tôi sẽ gởi thông tin để giúp bạn lấy lại mật khẩu."
+
+#~ msgid "Your email"
+#~ msgstr "Nhập email vào đây"
+
+#~ msgid "Select language"
+#~ msgstr "Chọn ngôn ngữ"
+
+#~ msgid "#%s downloaded"
+#~ msgstr "#%s đang gia công"
+
+#~ msgid "#%s uploaded"
+#~ msgstr "#%s gia công xong"
+
+#~ msgid "#%s delivered"
+#~ msgstr "#%s đã giao hàng"
+
+#~ msgid "#%s completed"
+#~ msgstr "#%s đã hoàn thành"
+
+#~ msgid "New customer registered"
+#~ msgstr "Khách hàng mới"
+
+#~ msgid "New Order #%s"
+#~ msgstr "Đơn hàng mới #%s"
+
+#~ msgid "You have %d notifications"
+#~ msgstr "Bạn có %d thông báo"
+
+#~ msgid "You have %d notification"
+#~ msgstr "Bạn có %d thông báo"
+
+#~ msgid "View all notifications"
+#~ msgstr "Xem tất cả"
+
+#~ msgid "You have no notification"
+#~ msgstr "Bạn không có thông báo nào"
+
+#~ msgid "You have %d pending tasks"
+#~ msgstr "Bạn có %d việc cần làm"
+
+#~ msgid "You have %d pending task"
+#~ msgstr "Bạn có %d việc cần làm"
+
+#~ msgid "View all tasks"
+#~ msgstr "Xem tất cả"
+
+#~ msgid "You have no pending task"
+#~ msgstr "Bạn không có công việc nào"
+
+#~ msgid "Welcome"
+#~ msgstr "Xin chào"
+
+#~ msgid "%s %s"
+#~ msgstr "%s %s"
+
+#~ msgid "Settings"
+#~ msgstr "Cài đặt"
+
+#~ msgid "Account"
+#~ msgstr "Tài khoản"
+
+#~ msgid "Profile"
+#~ msgstr "Hồ sơ"
+
+#~ msgid "Change password"
+#~ msgstr "Đổi mật khẩu"
+
+#~ msgid "Do you really want to logout?"
+#~ msgstr "Bạn chắc chắn muốn thoát không?"
+
+#~ msgid "Logout"
+#~ msgstr "Đăng xuất"
+
+#~ msgid "Duplicated user. Please contact Admin"
+#~ msgstr "Người dùng trùng lặp. Xin vui lòng liên hệ với admin"
+
+#~ msgid "Acount ID or password wrong. Please try again !"
+#~ msgstr "Mật khẩu hoặc ID không đúng . Xin thử lại!"
+
+#~ msgid "Sign in"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "Remember me?"
+#~ msgstr "Lưu thông tin đăng nhập?"
+
+#~ msgid "Forgot password?"
+#~ msgstr "Quên mật khẩu?"
+
+#~ msgid "Sign up"
+#~ msgstr "Đăng ký"
+
+#~ msgid "If you don&#39;t have an user account, please create an account to register online for  order management system"
+#~ msgstr "Nếu bạn chưa có tài khoản, hãy đăng ký tài khoản ngay hôm nay để truy cập và thực hiện các thao tác trên hệ thống"
+
+#~ msgid "Create A New Account"
+#~ msgstr "Tạo tài khoản"
+
+#~ msgid "Username ID or duplicate. Please contact Admin"
+#~ msgstr "ID tên người dùng bị trùng lặp. Vui lòng liên hệ với Quản trị viên"
+
+#~ msgid "<strong>Error</strong>"
+#~ msgstr "<strong>Lỗi</strong>"
+
+#~ msgid "Register"
+#~ msgstr "Đăng ký"
+
+#~ msgid "Create your account"
+#~ msgstr "Hãy tạo cho mình một tài khoản"
+
+#~ msgid "Please fill out this field."
+#~ msgstr "Vui lòng nhập nội dung."
+
+#~ msgid "Username is already exits. Please try again"
+#~ msgstr "Đã có người dùng tên đăng nhập này . Xin thử lại"
+
+#~ msgid "Create member error !!! Account is duplicate"
+#~ msgstr "Đăng ký thất bại !!! Tài khoản bị trùng"
+
+#~ msgid "Please enter username"
+#~ msgstr "Vui lòng nhập tên đăng nhập"
+
+#~ msgid "Company Name"
+#~ msgstr "Tên công ty"
+
+#~ msgid "Please enter company name"
+#~ msgstr "Vui lòng nhập tên công ty"
+
+#~ msgid "Company Name <br/> (Alphabet)"
+#~ msgstr "Tên công ty (tiếng Latin)"
+
+#~ msgid "Please enter alphabet only"
+#~ msgstr "Vui lòng chỉ nhập ký tự chữ cái"
+
+#~ msgid "Responsibility Person"
+#~ msgstr "Người phụ trách"
+
+#~ msgid "Please enter responsibility person"
+#~ msgstr "Vui lòng nhập tên người phụ trách"
+
+#~ msgid "Responsibility Person <br/> (Alphabet)"
+#~ msgstr "Người phụ trách (tiếng Latin)"
+
+#~ msgid "Gender"
+#~ msgstr "Giới tính"
+
+#~ msgid "Male"
+#~ msgstr "Nam"
+
+#~ msgid "Female"
+#~ msgstr "Nữ"
+
+#~ msgid "Address"
+#~ msgstr "Địa chỉ"
+
+#~ msgid "Postal code"
+#~ msgstr "Mã bưu điện"
+
+#~ msgid "Prefectures"
+#~ msgstr "Quận, huyện"
+
+#~ msgid "City"
+#~ msgstr "Tỉnh, thành phố"
+
+#~ msgid "Street, building, apartment, apartment name"
+#~ msgstr "Số, đường, tòa nhà"
+
+#~ msgid "Email is already exits. Please try again"
+#~ msgstr "Email đã có người sử dụng . Xin thử lại"
+
+#~ msgid "Please enter a valid email"
+#~ msgstr "Vui lòng nhập email hợp lệ"
+
+#~ msgid "Phone Number"
+#~ msgstr "Số điện thoại"
+
+#~ msgid "Please enter phone number"
+#~ msgstr "Vui lòng nhập số điện thoại"
+
+#~ msgid "Payment Method"
+#~ msgstr "Phương thức thanh toán"
+
+#~ msgid "Payment on invoice"
+#~ msgstr "Trả sau"
+
+#~ msgid "Deposit"
+#~ msgstr "Tiền gửi"
+
+#~ msgid "Please type strong password"
+#~ msgstr "Vui lòng nhập mật khẩu"
+
+#~ msgid "Refresh"
+#~ msgstr "Làm mới"
+
+#~ msgid "Membership registration requires that you agree to the terms and conditions of membership.Please read the following terms and conditions carefully, and if you agree, please check the \"I agree with the terms and conditions\" at the bottom, then click the \"Confirmation of content\" button to proceed."
+#~ msgstr "Đăng ký thành viên yêu cầu bạn đồng ý với các điều khoản và điều kiện của thành viên. Vui lòng đọc kỹ các điều khoản và điều kiện sau đây và nếu bạn đồng ý, vui lòng xác nhận \"Tôi đồng ý với các điều khoản và điều kiện\" ở dưới cùng, sau đó nhấp vào nút \"Tạo tài khoản\"."
+
+#~ msgid "Please agree to our policy"
+#~ msgstr "Tôi đồng ý với các điều khoản và điều kiện"
+
+#~ msgid "Goto confirm screen"
+#~ msgstr "Xem lại nội dung"
+
+#~ msgid "Back"
+#~ msgstr "Quay lại"
+
+#~ msgid "THANK YOU FOR REGISTERING"
+#~ msgstr "CÁM ƠN BẠN ĐÃ ĐĂNG KÝ"
+
+#~ msgid "Thank you for registering to the  website. You should receive a confirmation email shortly with your user name and password reminder."
+#~ msgstr "Cảm ơn bạn đã đăng ký vào trang web. Bạn sẽ sớm nhận được email xác nhận với tên người dùng và mật khẩu."
+
+#~ msgid "Open the email and click on <strong>Activate Account</strong> to verify your account."
+#~ msgstr "Cảm ơn bạn đã đăng ký tài khoản, để có thể sử dụng xin vui lòng thực hiện thao tác cuối cùng là bấm vào nút  <strong>kích hoạt tài khoản</strong>."
+
+#~ msgid "Back to Home"
+#~ msgstr "Quay về đầu"
+
+#~ msgid "[]Thank you for signing up"
+#~ msgstr "Cám ơn bạn đã đăng ký"
+
+#~ msgid "Thank you for signing up"
+#~ msgstr "Cám ơn bạn đã đăng ký"
+
+#~ msgid "Company name"
+#~ msgstr "Tên công ty"
+
+#~ msgid "Activate Account"
+#~ msgstr "Kích hoạt tài khoản"
+
+#~ msgid "Mrs/Mr %s"
+#~ msgstr "Ông/Bà %s"
+
+#~ msgid "Your account has been temporary created.<br>Please click on <strong>Activate Account</strong> button to verify your account:"
+#~ msgstr "Cảm ơn bạn đã đăng ký tài khoản, để có thể sử dụng xin vui lòng thực hiện thao tác cuối cùng là bấm vào nút  <strong>kích hoạt tài khoản</strong>:"
+
+#~ msgid "Confirm"
+#~ msgstr "Kiểm tra"
+
+#~ msgid "Confirm your input"
+#~ msgstr "Kiểm tra lại thông tin"
+
+#~ msgid "Company name <br/> (Roman characters)"
+#~ msgstr "Tên công ty (tiếng Latin)"
+
+#~ msgid "Contact person"
+#~ msgstr "Người liên hệ"
+
+#~ msgid "Contact person <br/> (Roman characters)"
+#~ msgstr "Người phụ trách <br/>(tiếng Latin)"
+
+#~ msgid "Phone number"
+#~ msgstr "Số điện thoại"
+
+#~ msgid "Payment method"
+#~ msgstr "Phương thức thanh toán"
+
+#~ msgid "Create Account"
+#~ msgstr "Tạo tài khoản"
+
+#~ msgid "Back to form"
+#~ msgstr "Quay về form"
+
+#~ msgid "Today tasks"
+#~ msgstr "Công việc hôm nay"
+
+#~ msgid "Today messages"
+#~ msgstr "Tin nhắn hôm nay"
+
+#~ msgid "minute"
+#~ msgstr "phút"
+
+#~ msgid "hour"
+#~ msgstr "giờ"
+
+#~ msgid "day"
+#~ msgstr "ngày"
+
+#~ msgid "week"
+#~ msgstr "tuần"
+
+#~ msgid "month"
+#~ msgstr "tháng"
+
+#~ msgid "year"
+#~ msgstr "năm"
+
+#~ msgid "one %s ago"
+#~ msgstr "một %s trước"
+
+#~ msgid "%s %ss ago"
+#~ msgstr "%s %s trước"
+
+#~ msgid "Jan"
+#~ msgstr "Tháng 1"
+
+#~ msgid "Feb"
+#~ msgstr "Tháng 2"
+
+#~ msgid "Mar"
+#~ msgstr "Tháng 3"
+
+#~ msgid "Apr"
+#~ msgstr "Tháng 4"
+
+#~ msgid "May"
+#~ msgstr "Tháng 5"
+
+#~ msgid "Jun"
+#~ msgstr "Tháng 6"
+
+#~ msgid "Jul"
+#~ msgstr "Tháng 7"
+
+#~ msgid "Aug"
+#~ msgstr "Tháng 8"
+
+#~ msgid "Sep"
+#~ msgstr "Tháng 9"
+
+#~ msgid "Oct"
+#~ msgstr "Tháng 10"
+
+#~ msgid "Nov"
+#~ msgstr "Tháng 11"
+
+#~ msgid "Dec"
+#~ msgstr "Tháng 12"
+
+#~ msgid "English"
+#~ msgstr "English"
+
+#~ msgid "日本語"
+#~ msgstr "日本語"
+
+#~ msgid "%d teeths"
+#~ msgstr "%d răng"
+
+#~ msgid "%d years old"
+#~ msgstr "%d tuổi"
+
+#~ msgid "Publish"
+#~ msgstr "Đăng"
+
+#~ msgid "Pending"
+#~ msgstr "Chờ xử lý"
+
+#~ msgid "Fullzirconia"
+#~ msgstr "Fullzirconia"
+
+#~ msgid "Normal"
+#~ msgstr "Thường"
+
+#~ msgid "Urgent"
+#~ msgstr "Gấp"
+
+#~ msgid "We look forward to your continued support for us.<br>Contact us<br><a style=\"color:#5b9bd5\" href=\"mailto:info@vql.jp\">info@vql.jp</a></font><br><br>"
+#~ msgstr "Chúng tôi rất trân trọng những đóng góp của bạn dành cho VietQuocLab.<br>Hãy liên hệ <br><a style=\"color:#5b9bd5\" href=\"mailto:info@vql.jp\">info@vql.jp</a></font><br><br>"
+
+#~ msgid "Website URL: "
+#~ msgstr "Địa chỉ trang web: "
+
+#~ msgid "Home"
+#~ msgstr "Trang chủ"
+
+#~ msgid "Password updated successfully!!!"
+#~ msgstr "Cập nhật mật khẩu thành công!"
+
+#~ msgid "Old password is wrong"
+#~ msgstr "Mật khẩu hiện tại không đúng"
+
+#~ msgid "Current password"
+#~ msgstr "Mật khẩu hiện tại"
+
+#~ msgid "Retype new password"
+#~ msgstr "Nhập lại mật khẩu"
+
+#~ msgid "Confirm password does not match"
+#~ msgstr "Mật khẩu không khớp"
+
+#~ msgid "Save Changes"
+#~ msgstr "Lưu thay đổi"
+
+#~ msgid "News"
+#~ msgstr "Tin tức"
+
+#~ msgid "Post inserted!"
+#~ msgstr "Thêm bài viết!"
+
+#~ msgid "Enter title here"
+#~ msgstr "Dán tiêu đề vào đây"
+
+#~ msgid "Status News:"
+#~ msgstr "Trạng thái:"
+
+#~ msgid "Publish News"
+#~ msgstr "Đăng"
+
+#~ msgid "Pending News"
+#~ msgstr "Chờ xử lý"
+
+#~ msgid "Date post:"
+#~ msgstr "Ngày đăng:"
+
+#~ msgid "Please complete your previous order"
+#~ msgstr "Vui lòng hoàn tất việc đặt hàng"
+
+#~ msgid "Opps, something went wrong!"
+#~ msgstr "Ôi. Có gì đó sai sai!"
+
+#~ msgid "File type is invalid"
+#~ msgstr "File không hợp lệ"
+
+#~ msgid "Please chose a file"
+#~ msgstr "Vui lòng chọn file"
+
+#~ msgid "Please pick a date"
+#~ msgstr "Vui lòng chọn ngày"
+
+#~ msgid "The option you have just been selected is out of time"
+#~ msgstr "Đã quá thời gian nhận và giao hàng trong ngày, vui lòng chọn ngày khác"
+
+#~ msgid "The option you have just been selected is out of serve today"
+#~ msgstr "Đã quá thời gian nhận hàng gấp, vui lòng chọn ngày khác"
+
+#~ msgid "Please enter patient name"
+#~ msgstr "Xin hãy nhập tên bệnh nhân"
+
+#~ msgid "Please enter patient age"
+#~ msgstr "Xin hãy nhập tuổi bệnh nhân"
+
+#~ msgid "Please check the position"
+#~ msgstr "Hãy chọn vị trí răng cần làm"
+
+#~ msgid "Please select customer name"
+#~ msgstr "Vui lòng chọn khách hàng"
+
+#~ msgid "Invalid token"
+#~ msgstr "Token không hợp lệ"
+
+#~ msgid "Choose patient"
+#~ msgstr "Chọn bệnh nhân"
+
+#~ msgid "Patient Name"
+#~ msgstr "Tên bệnh nhân"
+
+#~ msgid "Last name"
+#~ msgstr "Tên"
+
+#~ msgid "First name"
+#~ msgstr "Họ"
+
+#~ msgid "Common"
+#~ msgstr "Chung"
+
+#~ msgid "Expedited Shipping (If you wish to deliver in today after 15:00 JST, The order accept by 18:00 JST in 3 hours)"
+#~ msgstr "Giao nhanh (Nếu sau 15 giờ mỗi ngày muốn đặt hàng thì hãy chọn đặt hàng gấp , thời gian đặt hàng là tới 18 giờ mỗi ngày . )"
+
+#~ msgid "Age"
+#~ msgstr "Tuổi"
+
+#~ msgid "Choose file"
+#~ msgstr "Chọn file"
+
+#~ msgid "No file chosen"
+#~ msgstr "Chưa chọn file"
+
+#~ msgid "Desired delivery date"
+#~ msgstr "Yêu cầu ngày giao"
+
+#~ msgid "Item"
+#~ msgstr "Chỉ định"
+
+#~ msgid "Please select an option."
+#~ msgstr "Vui lòng chọn một tùy chọn."
+
+#~ msgid "Please select"
+#~ msgstr "Vui lòng hãy chọn"
+
+#~ msgid "None"
+#~ msgstr "Trống"
+
+#~ msgid "Other"
+#~ msgstr "Khác"
+
+#~ msgid "VITA Shade"
+#~ msgstr "Màu răng"
+
+#~ msgid "※If you wish multiple or other, Please write down in the remarks column bottom of this page"
+#~ msgstr "※ Xin hãy check vào các ô bên dưới để chọn nhiều răng"
+
+#~ msgid "※ Extra charge: %s%% extra charge of the total amount"
+#~ msgstr "Đơn hàng gấp sẽ phải cộng thêm %s%% trong tổng giá trị đơn hàng"
+
+#~ msgid "※Data format .stl / .zip<br>※Please send combined 1 file included \\\"Working Model\\\", \\\"Dental　Antagonist\\\",\\\"The model bit between Working Model and Dental Antagonist\\\"<br>※Maximum upload file size: 20MB"
+#~ msgstr "※File dạng .stl / .zip<br>※Trường hợp mà file gia công có 3 file ( mô hình gia công , răng đối , ...)thì vui lòng hãy gửi file zip <br>※Dung lượng tối đa của file là 20MB"
+
+#~ msgid "Remarks"
+#~ msgstr "Nhận xét"
+
+#~ msgid "Total"
+#~ msgstr "Thành tiền"
+
+#~ msgid "Quantity"
+#~ msgstr "Số lượng"
+
+#~ msgid "Position"
+#~ msgstr "Vị trí răng"
+
+#~ msgid "JPY"
+#~ msgstr "Yên"
+
+#~ msgid "teeth"
+#~ msgstr "răng"
+
+#~ msgid "Enter patient name"
+#~ msgstr "Nhập tên bệnh nhân"
+
+#~ msgid "No patient found"
+#~ msgstr "Chưa có bệnh nhân"
+
+#~ msgid "Add new"
+#~ msgstr "Tạo mới"
+
+#~ msgid "Choose customer"
+#~ msgstr "Chọn khách hàng"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#~ msgid "Order form"
+#~ msgstr "Form đặt hàng"
+
+#~ msgid "Customer company"
+#~ msgstr "Khách hàng"
+
+#~ msgid "%s, %d"
+#~ msgstr "%s, %d tuổi"
+
+#~ msgid "Example: Taro Yamada"
+#~ msgstr "Vi dụ : Taro Yamada"
+
+#~ msgid "%d teeth"
+#~ msgstr "%d răng"
+
+#~ msgid "%d tooth"
+#~ msgstr "%d răng"
+
+#~ msgid "Standard (Order by 15:00 JST and we will deliver it within today)"
+#~ msgstr "Bình thường (Chỉ nhận đặt hàng tới 15 giờ mỗi ngày )"
+
+#~ msgid "Scheduled Delivery"
+#~ msgstr "Chọn ngày giao hàng(ngày giao hàng là ngày đã được chọn)"
+
+#~ msgid "※Data format .stl / .zip<br>※Please send combined 1 file included \"Working Model\", \"Dental　Antagonist\",\"The model bit between Working Model and Dental Antagonist\"<br>※Maximum upload file size: 20MB"
+#~ msgstr "※File dạng .stl / .zip<br>※Trường hợp mà file gia công có 3 file ( mô hình gia công , răng đối , ...)thì vui lòng hãy gửi file zip <br>※Dung lượng tối đa của file là 20MB"
+
+#~ msgid "tooth"
+#~ msgstr "răng"
+
+#~ msgid "Add more"
+#~ msgstr "Thêm"
+
+#~ msgid "Order"
+#~ msgstr "Đặt  hàng"
+
+#~ msgid "Order complete"
+#~ msgstr "Đặt hàng thành công"
+
+#~ msgid "Thank you for order \"%d\" items."
+#~ msgstr "Cám ơn bạn đã đặt \"%d\" đơn hàng."
+
+#~ msgid "Thank you for order \"%d\" item."
+#~ msgstr "Cám ơn bạn đã đặt \"%d\" đơn hàng."
+
+#~ msgid "Thank you for your order"
+#~ msgstr "Cám ơn bạn đã đặt hàng"
+
+#~ msgid "We have sent the order confirmation email to your registered email address."
+#~ msgstr "Chúng tôi đã gửi email xác nhận đơn hàng đến địa chỉ email đã đăng ký của bạn."
+
+#~ msgid "Patient name"
+#~ msgstr "Tên bệnh nhân"
+
+#~ msgid "%d year old"
+#~ msgstr "%d tuổi"
+
+#~ msgid "Amount per teeth ￥%s (tax included)"
+#~ msgstr "Giá mỗi răng là %s Yên (đã có thuế)"
+
+#~ msgid "%s JPY"
+#~ msgstr "%s Yên"
+
+#~ msgid "(tax included)"
+#~ msgstr "(đã gồm thuế)"
+
+#~ msgid "Processing data attachment"
+#~ msgstr "Xử lý tập tin đính kèm"
+
+#~ msgid "Total quantity"
+#~ msgstr "Số lượng"
+
+#~ msgid "Subtotal"
+#~ msgstr "Tổng cộng"
+
+#~ msgid "VAT"
+#~ msgstr "Thuế"
+
+#~ msgid "Order more"
+#~ msgstr "Thêm đơn hàng"
+
+#~ msgid "Order list"
+#~ msgstr "Danh sách đặt hàng"
+
+#~ msgid "Order detail"
+#~ msgstr "Chi tiết đặt hàng"
+
+#~ msgid "Order number"
+#~ msgstr "Mã đơn  hàng"
+
+#~ msgid "Re-order"
+#~ msgstr "Đặt lại"
+
+#~ msgid "Print"
+#~ msgstr "In"
+
+#~ msgid "Order date: %s"
+#~ msgstr "Ngày đặt hàng %s"
+
+#~ msgid "Preparing"
+#~ msgstr "Đang xử lí"
+
+#~ msgid "Processing"
+#~ msgstr "Đang gia công"
+
+#~ msgid "In Process"
+#~ msgstr "Đang gia công"
+
+#~ msgid "Shipping"
+#~ msgstr "Hoàn thành"
+
+#~ msgid "Delivered"
+#~ msgstr "Đã giao hàng"
+
+#~ msgid "Unpaid"
+#~ msgstr "Chưa thanh toán"
+
+#~ msgid "Paid"
+#~ msgstr "Đã thanh toán"
+
+#~ msgid "Partial payment"
+#~ msgstr "Trả trước 1 phần"
+
+#~ msgid "Please wait..."
+#~ msgstr "Đang chờ..."
+
+#~ msgid "Unselected"
+#~ msgstr "Không lựa chọn"
+
+#~ msgid "Order Status"
+#~ msgstr "Tình trạng đơn hàng"
+
+#~ msgid "Order payment"
+#~ msgstr "Tình trạng thanh toán"
+
+#~ msgid "Price / Unit (Inc.Tax)"
+#~ msgstr "Giá / Đơn vị (Inc.Tax)"
+
+#~ msgid "Subtotal (Inc. Tax)"
+#~ msgstr "Tổng (Inc.Tax)"
+
+#~ msgid "Expedited Shipping"
+#~ msgstr "Giao gấp"
+
+#~ msgid "Shipping date"
+#~ msgstr "Ngày chuyển"
+
+#~ msgid "Shippable data"
+#~ msgstr "Dữ liệu có thể chuyển"
+
+#~ msgid "Download"
+#~ msgstr "Lấy về"
+
+#~ msgid "Exp: "
+#~ msgstr "Hạn chót tải dữ liệu: "
+
+#~ msgid "Contact"
+#~ msgstr "Liên hệ"
+
+#~ msgid "Go Back To The List"
+#~ msgstr "Quay lại danh sách"
+
+#~ msgid "Enter password to download this file"
+#~ msgstr "Nhập mật khẩu để tải file"
+
+#~ msgid "Yes"
+#~ msgstr "Đồng ý"
+
+#~ msgid "Cancel"
+#~ msgstr "Hủy"
+
+#~ msgid "The password you entered was wrong!"
+#~ msgstr "Mật khẩu không đúng!"
+
+#~ msgid "Please enter valid password"
+#~ msgstr "Vui lòng nhập mật khẩu hợp lệ"
+
+#~ msgid "Enter your login password to download"
+#~ msgstr "Nhập mật khẩu để tải file"
+
+#~ msgid "login password"
+#~ msgstr "mật khẩu đăng nhập"
+
+#~ msgid "Reorder"
+#~ msgstr "Đặt lại"
+
+#~ msgid "%d. Patient name: %s"
+#~ msgstr "%d. Tên bệnh nhân: %s"
+
+#~ msgid "Comments"
+#~ msgstr "Nhận xét"
+
+#~ msgid "Save"
+#~ msgstr "Lưu"
+
+#~ msgid "Filter by"
+#~ msgstr "Lọc theo"
+
+#~ msgid "Order number or  Patient name"
+#~ msgstr "Mã đơn hàng, tên bệnh nhân"
+
+#~ msgid "Search"
+#~ msgstr "Tìm kiếm"
+
+#~ msgid "OR"
+#~ msgstr "HOẶC"
+
+#~ msgid "Date range filter"
+#~ msgstr "Lọc theo ngày"
+
+#~ msgid "Order Date"
+#~ msgstr "Ngày đặt hàng"
+
+#~ msgid "Shipping Date"
+#~ msgstr "Ngày chuyển"
+
+#~ msgid "Order history"
+#~ msgstr "Danh sách đơn hàng"
+
+#~ msgid "Status"
+#~ msgstr "Trạng thái"
+
+#~ msgid "Today"
+#~ msgstr "Hôm nay"
+
+#~ msgid "Yesterday"
+#~ msgstr "Hôm qua"
+
+#~ msgid "Last 7 Days"
+#~ msgstr "7 ngày gần đây"
+
+#~ msgid "Last 30 Days"
+#~ msgstr "30 ngày gần đây"
+
+#~ msgid "This Month"
+#~ msgstr "Tháng này"
+
+#~ msgid "Last Month"
+#~ msgstr "Tháng trước"
+
+#~ msgid "Apply"
+#~ msgstr "Chọn"
+
+#~ msgid "From"
+#~ msgstr "Từ"
+
+#~ msgid "To"
+#~ msgstr "Đến"
+
+#~ msgid "Custom Range"
+#~ msgstr "Tùy chọn ngày"
+
+#~ msgid "Su"
+#~ msgstr "CN"
+
+#~ msgid "Mo"
+#~ msgstr "H"
+
+#~ msgid "Tu"
+#~ msgstr "B"
+
+#~ msgid "We"
+#~ msgstr "T"
+
+#~ msgid "Th"
+#~ msgstr "N"
+
+#~ msgid "Fr"
+#~ msgstr "S"
+
+#~ msgid "Sa"
+#~ msgstr "B"
+
+#~ msgid "January"
+#~ msgstr "Tháng 1"
+
+#~ msgid "February"
+#~ msgstr "Tháng 2"
+
+#~ msgid "March"
+#~ msgstr "Tháng 3"
+
+#~ msgid "April"
+#~ msgstr "Tháng 4"
+
+#~ msgid "June"
+#~ msgstr "Tháng 6"
+
+#~ msgid "July"
+#~ msgstr "Tháng 7"
+
+#~ msgid "August"
+#~ msgstr "Tháng 8"
+
+#~ msgid "September"
+#~ msgstr "Tháng 9"
+
+#~ msgid "October"
+#~ msgstr "Tháng 10"
+
+#~ msgid "November"
+#~ msgstr "Tháng 11"
+
+#~ msgid "December"
+#~ msgstr "Tháng 12"
+
+#~ msgid "Opps. Something wrong"
+#~ msgstr "Ôi. Có gì đó sai sai"
+
+#~ msgid "Message field"
+#~ msgstr "Nội dung tin nhắn"
+
+#~ msgid "Email is invalid"
+#~ msgstr "Email không hợp lệ"
+
+#~ msgid "Message"
+#~ msgstr "Tin nhắn"
+
+#~ msgid "Contact Complete"
+#~ msgstr "Hoàn thành"
+
+#~ msgid "<h1>Thank you for your inquiry.</h1>Depending on the content, it may take time to give an answer.<br>In addition, please note that holidays will be available after the next business day."
+#~ msgstr "<h1>Cảm ơn bạn đã liên hệ với chúng tôi .</h1> Tùy theo nội dung câu hỏi trường hợp trả lời chậm cũng có,<br>nếu trúng vào ngày nghỉ lễ thì sẽ được trả lời vào ngày làm việc."
+
+#~ msgid "Contact confirm"
+#~ msgstr "Xác nhận"
+
+#~ msgid "Go Back"
+#~ msgstr "Quay lại"
+
+#~ msgid "Add New Customer"
+#~ msgstr "Tạo khách mới"
+
+#~ msgid "New customer created successfully !!!"
+#~ msgstr "Thêm khách hàng thành công !!!"
+
+#~ msgid "Member code"
+#~ msgstr "Mã khách hàng"
+
+#~ msgid "Please enter contact person"
+#~ msgstr "Vui lòng nhập tên người phụ trách"
+
+#~ msgid "Street, Building, apartment, suite, floor, etc."
+#~ msgstr "Số, đường, tòa nhà..."
+
+#~ msgid "Prefecture, province, state, region, etc."
+#~ msgstr "Quận huyện..."
+
+#~ msgid "Zip code"
+#~ msgstr "Mã bưu điện"
+
+#~ msgid "Reset"
+#~ msgstr "Tạo lại"
+
+#~ msgid "Delete member successfull !!!"
+#~ msgstr "Đã xóa thành công!"
+
+#~ msgid "Are you really want to delete?"
+#~ msgstr "Bạn chắc chắn muốn xóa?"
+
+#~ msgid "Submit"
+#~ msgstr "Gửi"
+
+#~ msgid "Delete User"
+#~ msgstr "Xóa người dùng"
+
+#~ msgid "Search customer"
+#~ msgstr "Danh sách khách hàng"
+
+#~ msgid "Search Form customer"
+#~ msgstr "Tìm khách hàng"
+
+#~ msgid "Search by Customer number, Customer Name, Contact person, Email address, Telephone number."
+#~ msgstr "Tìm kiếm theo mã khách hàng, tên công ty, người phụ trách, địa chỉ email, số điện thoại."
+
+#~ msgid "Customer List"
+#~ msgstr "Danh sách khách hàng"
+
+#~ msgid "Delete member wrong !!!"
+#~ msgstr "Có lỗi khi xóa !!!"
+
+#~ msgid "You can not delete this member !!!"
+#~ msgstr "Bạn không thể xóa tài khoản này !!!"
+
+#~ msgid "Customer Number"
+#~ msgstr "Mã khách hàng"
+
+#~ msgid "Customer Name"
+#~ msgstr "Tên khách hàng"
+
+#~ msgid "Contact Person"
+#~ msgstr "Người liên hệ"
+
+#~ msgid "Telephone Number"
+#~ msgstr "Số điện thoại"
+
+#~ msgid "E-mail Address"
+#~ msgstr "Địa chỉ email"
+
+#~ msgid "Show price?"
+#~ msgstr "Hiện giá?"
+
+#~ msgid "Search by Customer number, Company name, Contact person, Email address, Telephone number."
+#~ msgstr "Tìm kiếm theo mã khách hàng, tên công ty, người phụ trách, địa chỉ email, số điện thoại."
+
+#~ msgid "You are not authorized to access this page"
+#~ msgstr "Bạn không có quyền truy cập trang này"
+
+#~ msgid "History Update"
+#~ msgstr "Lịch sử cập nhật"
+
+#~ msgid "No."
+#~ msgstr "Số."
+
+#~ msgid "Date"
+#~ msgstr "Ngày"
+
+#~ msgid "Log"
+#~ msgstr "Log"
+
+#~ msgid "Total Order Today"
+#~ msgstr "Đơn hàng hôm nay"
+
+#~ msgid "Today delivered"
+#~ msgstr "Đã giao hàng"
+
+#~ msgid "Today Priority"
+#~ msgstr "Đơn gấp hôm nay"
+
+#~ msgid "Pending verification"
+#~ msgstr "Chờ kiểm tra"
+
+#~ msgid "Revenue chart"
+#~ msgstr "Biểu đồ doanh số"
+
+#~ msgid "￥%s / %d order"
+#~ msgstr "%s Yên / %d đơn"
+
+#~ msgid "Sales amount of this year / number of sales"
+#~ msgstr "Doanh số / đơn hàng năm nay"
+
+#~ msgid "Sales amount of this month / number of sales"
+#~ msgstr "Doanh số / đơn hàng tháng này"
+
+#~ msgid "Today&#39;s sales amount / number of sales"
+#~ msgstr "Doanh số / đơn hàng hôm nay"
+
+#~ msgid "12 months chart"
+#~ msgstr "theo năm"
+
+#~ msgid "30 days chart"
+#~ msgstr "theo tháng"
+
+#~ msgid "7 days chart"
+#~ msgstr "theo tuần"
+
+#~ msgid "Operator bar chart"
+#~ msgstr "Biểu đồ người phụ trách"
+
+#~ msgid "Customer bar chart"
+#~ msgstr "Biểu đồ khách hàng"
+
+#~ msgid "Quantity chart"
+#~ msgstr "Số lượng"
+
+#~ msgid "Amount chart"
+#~ msgstr "Số tiền"
+
+#~ msgid "Recent your orders"
+#~ msgstr "Đơn đặt hàng gần đây của bạn"
+
+#~ msgid "Order date"
+#~ msgstr "Ngày đặt hàng"
+
+#~ msgid "Detail"
+#~ msgstr "Chi tiết"
+
+#~ msgid " News"
+#~ msgstr " Tin tức"
+
+#~ msgid "Patients and Quantity in last 12 months"
+#~ msgstr "Thống kê bệnh nhân và số lượng"
+
+#~ msgid "Operator last 6 months line chart"
+#~ msgstr "Biểu đồ người phụ trách 6 tháng"
+
+#~ msgid "Customer last 6 months line chart"
+#~ msgstr "Biểu đồ khách hàng 6 tháng"
+
+#~ msgid "Revenue previous month"
+#~ msgstr "Doanh thu tháng trước"
+
+#~ msgid "No data"
+#~ msgstr "Không có dữ liệu"
+
+#~ msgid "Revenue this month"
+#~ msgstr "Doanh thu tháng này"
+
+#~ msgid "Number of Patient"
+#~ msgstr "Tổng số bệnh nhân"
+
+#~ msgid "Assigned"
+#~ msgstr "Được giao"
+
+#~ msgid "Order per day"
+#~ msgstr "Trung bình mỗi ngày"
+
+#~ msgid "Revenue"
+#~ msgstr "Doanh số"
+
+#~ msgid "teeths"
+#~ msgstr "răng"
+
+#~ msgid "Recent Your Orders"
+#~ msgstr "Đơn đặt hàng gần đây của bạn"
+
+#~ msgid "Order #"
+#~ msgstr "Đơn hàng #"
+
+#~ msgid "Patients"
+#~ msgstr "Bệnh nhân"
+
+#~ msgid "<span class=\"badge badge-danger\">Pending</span>"
+#~ msgstr "<span class=\"badge badge-danger\">Chờ xử lý</span>"
+
+#~ msgid "<span class=\"badge badge-warning text-white\">Assigning</span>"
+#~ msgstr "<span class=\"badge badge-warning text-white\">Đang xử lý</span>"
+
+#~ msgid "<span class=\"badge badge-primary\">Processing</span>"
+#~ msgstr "<span class=\"badge badge-primary\">Đang gia công</span>"
+
+#~ msgid "<span class=\"badge badge-info text-white\">Completed</span>"
+#~ msgstr "<span class=\"badge badge-info text-white\">Đã hoàn thành</span>"
+
+#~ msgid "<span class=\"badge badge-success\">Delivered</span>"
+#~ msgstr "<span class=\"badge badge-success\">Đã giao</span>"
+
+#~ msgid "Details"
+#~ msgstr "Chi tiết"
+
+#~ msgid "Received"
+#~ msgstr "Thực thu"
+
+#~ msgid "Yesterday&#39;s sales amount / number of sales"
+#~ msgstr "Doanh số/ đơn hàng hôm qua"
+
+#~ msgid "Customer Detail"
+#~ msgstr "Thông tin chi tiết"
+
+#~ msgid "Setting saved!"
+#~ msgstr "Đã lưu cài đặt!"
+
+#~ msgid "Setting failed!"
+#~ msgstr "Cài đặt lỗi!"
+
+#~ msgid "E-mail"
+#~ msgstr "Email"
+
+#~ msgid "Price setting"
+#~ msgstr "Cài đặt giá"
+
+#~ msgid "Urgent price setting"
+#~ msgstr "Giá làm gấp"
+
+#~ msgid "Patient List"
+#~ msgstr "Danh sách  bệnh nhân"
+
+#~ msgid "Patient Code"
+#~ msgstr "Mã bệnh nhân"
+
+#~ msgid "Related News"
+#~ msgstr "Tin liên quan"
+
+#~ msgid "Patient"
+#~ msgstr "Tên bệnh nhân"
+
+#~ msgid "Patient Detail"
+#~ msgstr "Thông tin bệnh nhân"
+
+#~ msgid "Patient Number"
+#~ msgstr "Mã  bệnh nhân"
+
+#~ msgid "User Management"
+#~ msgstr "Quản lý thành viên"
+
+#~ msgid "Edit User"
+#~ msgstr "Chỉnh sửa người dùng"
+
+#~ msgid "Edit member successfull !!!"
+#~ msgstr "Cập nhật thành công !!!"
+
+#~ msgid "Edit member wrong !!!"
+#~ msgstr "Có lỗi khi chỉnh sửa tài khoản !!!"
+
+#~ msgid "Name"
+#~ msgstr "Tên"
+
+#~ msgid "Languages"
+#~ msgstr "Ngôn ngữ"
+
+#~ msgid "Role"
+#~ msgstr "Vai trò"
+
+#~ msgid "Customer"
+#~ msgstr "Khách hàng"
+
+#~ msgid "Administrator"
+#~ msgstr "Quản trị viên"
+
+#~ msgid "Manager"
+#~ msgstr "Quản lý"
+
+#~ msgid "Operator"
+#~ msgstr "Người phụ trách"
+
+#~ msgid "Accountant"
+#~ msgstr "Quản lí thanh toán"
+
+#~ msgid "You can not edit this member !!!"
+#~ msgstr "Bạn không thể chỉnh sửa tài khoản này !!!"
+
+#~ msgid "Post updated!"
+#~ msgstr "Cập nhật bài viết!"
+
+#~ msgid "Update"
+#~ msgstr "Cập nhật"
+
+#~ msgid "FAQ Category"
+#~ msgstr "Danh mục FAQ"
+
+#~ msgid "Category inserted!"
+#~ msgstr "Tạo danh mục!"
+
+#~ msgid "Category updated!"
+#~ msgstr "Cập nhật danh mục!"
+
+#~ msgid "Status FAQ:"
+#~ msgstr "Trạng thái:"
+
+#~ msgid "Publish FAQ"
+#~ msgstr "Đăng"
+
+#~ msgid "Pending FAQ"
+#~ msgstr "Chờ xử lý"
+
+#~ msgid "Category deleted successfully!"
+#~ msgstr "Xóa danh mục thành công!"
+
+#~ msgid "Category created successfully!"
+#~ msgstr "Thêm danh mục thành công!"
+
+#~ msgid "Category edited successfully!"
+#~ msgstr "Chỉnh sửa danh mục thành công!"
+
+#~ msgid "Title"
+#~ msgstr "Tiêu đề"
+
+#~ msgid "FAQ"
+#~ msgstr "Câu hỏi"
+
+#~ msgid "Category"
+#~ msgstr "Danh mục"
+
+#~ msgid "Add category"
+#~ msgstr "Thêm danh mục"
+
+#~ msgid "Delete post successfull !!!"
+#~ msgstr "Đã xóa thành công!"
+
+#~ msgid "Frequently asked questions"
+#~ msgstr "Các câu hỏi thường gặp"
+
+#~ msgid "User List"
+#~ msgstr "Danh sách người dùng"
+
+#~ msgid "User Name"
+#~ msgstr "Tên đăng nhập"
+
+#~ msgid "Member"
+#~ msgstr "Người dùng mới"
+
+#~ msgid "Member create"
+#~ msgstr "Tạo thành viên"
+
+#~ msgid "Username can not be blank"
+#~ msgstr "Tên người dùng không được để trống"
+
+#~ msgid "Fullname can not be blank"
+#~ msgstr "Họ tên không được để trống"
+
+#~ msgid "Email can not be blank"
+#~ msgstr "Địa chỉ email không được để trống"
+
+#~ msgid "Please select role"
+#~ msgstr "Bạn chưa chọn loại tài khoản"
+
+#~ msgid "Password can not be blank"
+#~ msgstr "Mật khẩu không được để trống"
+
+#~ msgid "Create member success !!!"
+#~ msgstr "Tạo thành công!!!"
+
+#~ msgid "Full name"
+#~ msgstr "Tên đầy đủ"
+
+#~ msgid "Add member"
+#~ msgstr "Thêm thanh viên"
+
+#~ msgid "Inbox"
+#~ msgstr "Hộp thư đến"
+
+#~ msgid "Unread"
+#~ msgstr "Chưa xem"
+
+#~ msgid "Read"
+#~ msgstr "Đã xem"
+
+#~ msgid "Access denied"
+#~ msgstr "Truy cập bị từ chối"
+
+#~ msgid "Operating manual"
+#~ msgstr "Hướng dẫn sử dụng"
+
+#~ msgid "Previous"
+#~ msgstr "Quay lại"
+
+#~ msgid "Next"
+#~ msgstr "Tiếp theo"
+
+#~ msgid "Page:"
+#~ msgstr "Trang:"
+
+#~ msgid "Orders"
+#~ msgstr "Đặt hàng"
+
+#~ msgid "Search Form"
+#~ msgstr "Khung tìm kiếm đơn hàng"
+
+#~ msgid "Search by Order number, Company name, Contact person, Patient etc."
+#~ msgstr "Tìm kiếm theo mã đặt hàng, tên công ty , người phụ trách, người bệnh ,v.v.."
+
+#~ msgid "Order List"
+#~ msgstr "Danh sách đơn hàng"
+
+#~ msgid "Priority"
+#~ msgstr "Ưu tiên"
+
+#~ msgid "Total Qty"
+#~ msgstr "Số lượng"
+
+#~ msgid "Total Amount"
+#~ msgstr "Thành tiền"
+
+#~ msgid "Operating Status"
+#~ msgstr "Tình trạng đơn hàng"
+
+#~ msgid "Payment Status"
+#~ msgstr "Tình trạng thanh toán"
+
+#~ msgid "Last Update"
+#~ msgstr "Cập nhật cuối cùng"
+
+#~ msgid "Filter by shipping date from "
+#~ msgstr "Lọc theo ngày giao hàng từ "
+
+#~ msgid " to "
+#~ msgstr " đến "
+
+#~ msgid "Filter by order date from "
+#~ msgstr "Lọc theo ngày đặt hàng từ "
+
+#~ msgid "Filter by keyword: "
+#~ msgstr "Lọc theo từ khóa: "
+
+#~ msgid "(View all)"
+#~ msgstr "(Xem tất cả)"
+
+#~ msgid " and status are pending"
+#~ msgstr " và trạng thái đang chờ xử lý"
+
+#~ msgid " and priority is high"
+#~ msgstr " và là đơn hàng ưu tiên"
+
+#~ msgid "(status are pending)"
+#~ msgstr "(trạng thái đang chờ kiểm tra)"
+
+#~ msgid "(priority is high)"
+#~ msgstr "(đơn hàng ưu tiên)"
+
+#~ msgid "Orders list"
+#~ msgstr "Danh sách đặt hàng"
+
+#~ msgid "All"
+#~ msgstr "Tất cả"
+
+#~ msgid "Keyword"
+#~ msgstr "Từ khóa"
+
+#~ msgid "Search by Order number, Company name etc."
+#~ msgstr "Tìm kiếm theo tên công ty, mã đặt hàng."
+
+#~ msgid "Order ID"
+#~ msgstr "Mã đơn hàng"
+
+#~ msgid "Account deleted"
+#~ msgstr "Đã bị xóa"
+
+#~ msgid "Prefix number is not equal"
+#~ msgstr "Tên file không giống , vui lòng kiểm tra lại"
+
+#~ msgid "Order Detail"
+#~ msgstr "Chi tiết đặt hàng"
+
+#~ msgid "Last updated: %s"
+#~ msgstr "Cập nhật: %s"
+
+#~ msgid "View history update"
+#~ msgstr "Xem lịch sử cập nhật"
+
+#~ msgid "Order Number"
+#~ msgstr "Mã đơn hàng"
+
+#~ msgid "Choose authorized people"
+#~ msgstr "Chọn người thực hiện"
+
+#~ msgid "Mark as paid"
+#~ msgstr "Cho phép tải file về"
+
+#~ msgid "Billing Information"
+#~ msgstr "Thông tin thanh toán"
+
+#~ msgid "Paid Date"
+#~ msgstr "Ngày thanh toán"
+
+#~ msgid "Payment"
+#~ msgstr "Quản lí thanh toán"
+
+#~ msgid "Tax"
+#~ msgstr "Thuế"
+
+#~ msgid "Total QTY"
+#~ msgstr "Số lượng"
+
+#~ msgid "Patient Information"
+#~ msgstr "Thông tin bệnh nhân"
+
+#~ msgid "Order Details (#%s)"
+#~ msgstr "Chi tiết đơn hàng (#%s)"
+
+#~ msgid "Manufacturing"
+#~ msgstr "Gia công"
+
+#~ msgid "Tooth Numbering"
+#~ msgstr "Số răng"
+
+#~ msgid "Shipping Request Date"
+#~ msgstr "Yêu cầu ngày chuyển"
+
+#~ msgid "Manufacturing Data"
+#~ msgstr "Dữ liệu gia công"
+
+#~ msgid "Please select the operator person"
+#~ msgstr "Vui lòng chọn người phụ trách"
+
+#~ msgid "Expired Date"
+#~ msgstr "Ngày hết hạn"
+
+#~ msgid "Download this file"
+#~ msgstr "Tải file này về máy"
+
+#~ msgid "Shippable Data"
+#~ msgstr "Dữ liệu có thể chuyển"
+
+#~ msgid "No file uploaded"
+#~ msgstr "Chưa chọn file"
+
+#~ msgid "Please download manufacture file"
+#~ msgstr "Vui lòng tải file gia công"
+
+#~ msgid "Check it"
+#~ msgstr "Kiểm tra"
+
+#~ msgid "Edit"
+#~ msgstr "Sửa"
+
+#~ msgid "Upload"
+#~ msgstr "Tải lên"
+
+#~ msgid "Upload the final file here"
+#~ msgstr "Tải lên file hoàn thiện"
+
+#~ msgid "Go back to Order List"
+#~ msgstr "Trở lại danh sách đặt hàng"
+
+#~ msgid "Delete patient successfull !!!"
+#~ msgstr "Đã xóa thành công!"
+
+#~ msgid "Delete Patient"
+#~ msgstr "Xóa bệnh nhân"
+
+#~ msgid "Search Patient"
+#~ msgstr "Tìm kiếm bệnh nhân"
+
+#~ msgid "Patient Code, Patient Name"
+#~ msgstr "Mã bệnh nhân, tên bệnh nhân"
+
+#~ msgid "Patient Registration"
+#~ msgstr "Tạo người bệnh"
+
+#~ msgid "Please enter valid age."
+#~ msgstr "Vui lòng nhập tuổi hợp lệ."
+
+#~ msgid "New patient created successfully !!!"
+#~ msgstr "Thêm bệnh nhân thành công !!!"
+
+#~ msgid "Add Patient"
+#~ msgstr "Thêm bệnh nhân"
+
+#~ msgid "Accountant-payment"
+#~ msgstr "Quản lí thanh toán"
+
+#~ msgid "Unpaid payment"
+#~ msgstr "Chưa thanh toán"
+
+#~ msgid "Customer name"
+#~ msgstr "Tên khách hàng"
+
+#~ msgid "Totals"
+#~ msgstr "Tổng cộng"
+
+#~ msgid "Updated"
+#~ msgstr "Cập nhật"
+
+#~ msgid "Please enter number"
+#~ msgstr "Vui lòng nhập số"
+
+#~ msgid "Number too big"
+#~ msgstr "Số tiền nhập quá lớn so với tổng giá trị đơn hàng"
+
+#~ msgid "Payment Status updated!"
+#~ msgstr "Đã cập nhật tình trạng thanh toán!"
+
+#~ msgid "Patient: %s <br>"
+#~ msgstr "Bệnh nhân: %s <br>"
+
+#~ msgid "Setting"
+#~ msgstr "Cài đặt"
+
+#~ msgid "Language Setting"
+#~ msgstr "Cài đặt ngôn ngữ"
+
+#~ msgid "Language was changed successfully!"
+#~ msgstr "Đã lưu cài đặt ngôn ngữ!"
+
+#~ msgid "Main Language"
+#~ msgstr "Ngôn ngữ chính"
+
+#~ msgid "※ This language setting is used for display of website, notification, and E-mail content. If you change language, log-out and lgoin again after select your prefer language."
+#~ msgstr "Cài đặt ngôn ngữ hiển thị trong hệ thống và ngôn ngữ mail , nếu thay đổi ngôn ngữ thì vui lòng thoát ra và đăng nhập lại sau khi thay đổi ngôn ngữ."
+
+#~ msgid "Price Setting"
+#~ msgstr "Cài đặt giá"
+
+#~ msgid "Price was set successfully!"
+#~ msgstr "Đã lưu cài đặt giá!"
+
+#~ msgid "Price"
+#~ msgstr "Giá"
+
+#~ msgid "Total Pricing"
+#~ msgstr "Tổng"
+
+#~ msgid "Urgent Price Setting"
+#~ msgstr "Giá làm gấp"
+
+#~ msgid "Urgent Price setting was set successfully!"
+#~ msgstr "Đã lưu cài đặt giá!"
+
+#~ msgid "Price Cost "
+#~ msgstr "Giá "
+
+#~ msgid "Admin Email Setting"
+#~ msgstr "Cài đặt mail"
+
+#~ msgid "Mail was set successfully!"
+#~ msgstr "Đã lưu cài đặt email!"
+
+#~ msgid "Email address"
+#~ msgstr "Địa chỉ email"
+
+#~ msgid "※ Use for default admin email"
+#~ msgstr "※ Địa chỉ email mặc định"
+
+#~ msgid "Terms and Conditions"
+#~ msgstr "Điều khoản và điều kiện"
+
+#~ msgid "Policy was saved successfully!"
+#~ msgstr "Các qui định đã được cập nhật!"
+
+#~ msgid "Language was set successfully!"
+#~ msgstr "Đã lưu cài đặt ngôn ngữ!"
+
+#~ msgid "※ Use for default & message and email"
+#~ msgstr "※ Ngôn ngữ chính cho các thông báo & email"
+
+#~ msgid "Revenue Detail"
+#~ msgstr "Chi tiết doanh thu"
+
+#~ msgid "Billing Month"
+#~ msgstr "Hóa đơn tháng"
+
+#~ msgid "Number of patient"
+#~ msgstr "Tổng số bệnh nhân"
+
+#~ msgid "Number of requests"
+#~ msgstr "Số lượng yêu cầu"
+
+#~ msgid "Total Fee(VAT)"
+#~ msgstr "Tổng phí (VAT)"
+
+#~ msgid "Revenue List"
+#~ msgstr "Doanh thu"
+
+#~ msgid "Billing month"
+#~ msgstr "Hóa đơn tháng"
+
+#~ msgid "Use month"
+#~ msgstr "Tháng"
+
+#~ msgid "Amount"
+#~ msgstr "Thành tiền"
+
+#~ msgid "Support"
+#~ msgstr "Hỗ trợ"
+
+#~ msgid "If you have any questions , please feel free to get in touch via"
+#~ msgstr "Nếu bạn có bất kỳ câu hỏi nào, xin vui lòng liên hệ qua"
+
+#~ msgid "User profile"
+#~ msgstr "Hồ sơ người dùng"
+
+#~ msgid "<h4 class=\"alert-heading\">Well done!</h4>Profile updated successfully!"
+#~ msgstr "<h4 class=\"alert-heading\">Đã xong!</h4>Cập nhật hồ sơ thành công!"
+
+#~ msgid "Select file"
+#~ msgstr "Chọn tập tin"
+
+#~ msgid "Description"
+#~ msgstr "Miêu tả"
+
+#~ msgid "Fullname"
+#~ msgstr "Tên đầy đủ"
+
+#~ msgid "Profile updated successfully!"
+#~ msgstr "Cập nhật thông tin thành công!"
+
+#~ msgid "※ Extra charge (per one + %s%%)"
+#~ msgstr "※ Có phụ thu (mỗi răng cộng thêm %s%%)"
+
+#~ msgid "￥%s"
+#~ msgstr "%s Yên"
+
+#~ msgid " and status are wait for check"
+#~ msgstr " và trạng thái đang chờ kiểm tra"
+
+#~ msgid " with all status"
+#~ msgstr " xem mọi trạng thái"
+
+#~ msgid " and status are %s"
+#~ msgstr " và trạng thái là %s"
+
+#~ msgid "Order list filter by order date from %s to %s %s"
+#~ msgstr "Danh sách đơn hàng lọc theo ngày đặt hàng từ %s đến %s %s"
+
+#~ msgid "Order list filter by shipping date from %s to %s %s"
+#~ msgstr "Danh sách đơn hàng lọc theo ngày giao hàng từ %s đến %s %s"
+
+#~ msgid "Revenue: %s"
+#~ msgstr "Doanh thu: %s"
+
+#~ msgid "This year"
+#~ msgstr "Năm nay"
+
+#~ msgid "Last year"
+#~ msgstr "Năm ngoái"
+
+#~ msgid "%d/%d"
+#~ msgstr "%d tháng %d"
+
+#~ msgid "quantity"
+#~ msgstr "số lượng"
+
+#~ msgid "amount"
+#~ msgstr "thành tiền"
+
+#~ msgid "Partial payment (￥)"
+#~ msgstr "Trả trước (Yên)"
+
+#~ msgid " and payment status is "
+#~ msgstr " và trạng thái thanh toán là "
+
+#~ msgid "mark as paid"
+#~ msgstr "đã thanh toán"
+
+#~ msgid "unpaid"
+#~ msgstr "chưa thanh toán"
+
+#~ msgid "partial payment"
+#~ msgstr "trả trước 1 phần"
+
+#~ msgid "Payment list filter by order date from %s to %s %s"
+#~ msgstr "Danh sách đơn hàng lọc theo ngày đặt hàng từ %s đến %s %s"
+
+#~ msgid "Payment list filter by shipping date from %s to %s %s"
+#~ msgstr "Danh sách đơn hàng lọc theo ngày giao hàng từ %s đến %s %s"
+
+#~ msgid "Orders List"
+#~ msgstr "Danh sách đặt hàng"
+
+#~ msgid "New Order"
+#~ msgstr "Đặt  hàng"
+
+#~ msgid "Customer Manager"
+#~ msgstr "Quản lí khách hàng"
+
+#~ msgid "Customers List"
+#~ msgstr "Danh sách khách hàng"
+
+#~ msgid "New Customer"
+#~ msgstr "Khách hàng mới"
+
+#~ msgid "User Manager"
+#~ msgstr "Quản lý thành viên"
+
+#~ msgid "Users List"
+#~ msgstr "Danh sách người dùng"
+
+#~ msgid "New User"
+#~ msgstr "Người dùng mới"
+
+#~ msgid "Post List"
+#~ msgstr "Danh sách bài viết"
+
+#~ msgid "New Post"
+#~ msgstr "Bài viết mới"
+
+#~ msgid "FAQ List"
+#~ msgstr "Danh sách câu hỏi"
+
+#~ msgid "New FAQ"
+#~ msgstr "Câu hỏi mới"
+
+#~ msgid "Setting System"
+#~ msgstr "Cài đặt hệ thống"
+
+#~ msgid "Operating Manual"
+#~ msgstr "Hướng dẫn sử dụng"
+
+#~ msgid "Credit Card"
+#~ msgstr "Thẻ tín dụng"
+
+#~ msgid "Tiếng Việt"
+#~ msgstr "Tiếng Việt"
+
+#~ msgid "Thank you for your inquiry"
+#~ msgstr "Cảm ơn bạn đã liên hệ"
+
+#~ msgid "Customer ID"
+#~ msgstr "ID Khách hàng"
+
+#~ msgid "Contact name"
+#~ msgstr "Tên liên hệ"
+
+#~ msgid "We received the following content"
+#~ msgstr "Nội dung liên hệ"
+
+#~ msgid "We will confirm the contents and contact you. <br>※ Depending on the content of the inquiry, it may take some time to answer."
+#~ msgstr "Chúng tôi sẽ xác nhận nội dung và liên hệ với bạn.<br>※ Tùy thuộc vào nội dung liên hệ, có thể mất một chút thời gian để trả lời."
+
+#~ msgid "[-demo-]Your account activated"
+#~ msgstr "Tai khoan da duoc kich hoat"
+
+#~ msgid "[-demo-] Password changed"
+#~ msgstr "Mật khẩu đã được thay đổi"
+
+#~ msgid "[-demo-]Please reset your password"
+#~ msgstr "Vui lòng cài đặt lại mật khẩu"
+
+#~ msgid "[-demo-]Thank you for signing up"
+#~ msgstr "Cám ơn bạn đã đăng ký"
+
+#~ msgid "VietQuocLab News"
+#~ msgstr "Tin tức Việt Quốc"
+
+#~ msgid "Please enter your company name"
+#~ msgstr "Vui lòng nhập tên công ty"
+
+#~ msgid "Please enter your company name in Roman characters"
+#~ msgstr "Vui lòng nhập tên công ty bằng ký tự Latin"
+
+#~ msgid "Please enter your contact person name"
+#~ msgstr "Vui lòng nhập tên người phụ trách"
+
+#~ msgid "Please enter your contact person name in Roman characters"
+#~ msgstr "Vui lòng nhập tên người phụ trách bằng ký tự Latin"
+
+#~ msgid "Please enter all address fields"
+#~ msgstr "Vui lòng nhập đầy đủ các ô địa chỉ"
+
+#~ msgid "I agree with the terms and conditions"
+#~ msgstr "Đồng ý các điều kiện sử dụng"
+
+#~ msgid "Click on Activate Account to verify your account."
+#~ msgstr "Cclick vào nút <strong>Kích hoạt tài khoản</strong> để xác nhận."
+
+#~ msgid "Same-Day"
+#~ msgstr "Giao trong ngày"
+
+#~ msgid "[VietQuocLab]Your account activated"
+#~ msgstr "[VietQuocLab]Tai khoan da duoc kich hoat"
+
+#~ msgid "[VietQuocLab] Password changed"
+#~ msgstr "[VietQuocLab]  mat khau da duoc thay doi"
+
+#~ msgid "[VietQuocLab]Please reset your password"
+#~ msgstr "[VietQuocLab]Cai dat lai mat khau"
+
+#~ msgid "[VietQuocLab]Thank you for signing up"
+#~ msgstr "[VietQuocLab]Cám ơn bạn đã đăng ký"
+
+#~ msgid "Booking"
+#~ msgstr "Đặt hàng"
+
+#~ msgid "Booking Confirm"
+#~ msgstr "Xác nhận thông tin đặt hàng"
+
+#~ msgid "Enter password to unlock file"
+#~ msgstr "Nhập mật khẩu để tải file"
+
+#~ msgid "Enter password here"
+#~ msgstr "Nhập mật khẩu ở đây"
+
+#~ msgid "［VietQuocLab］Thank you for your inquiry"
+#~ msgstr "[VietQuocLab]Cám ơn bạn đã liên hệ"
+
+#~ msgid "Company name <br/> (Roman characters))"
+#~ msgstr "Tên công ty (tiếng Latin)"
+
+#, fuzzy
+#~| msgid "Contact person <br/> (Roman characters)"
+#~ msgid "Contact person <br/> (Roman characters))"
+#~ msgstr "Người phụ trách <br/>(tiếng Latin)"
+
+#~ msgid "Please enter contact person "
+#~ msgstr "Vui lòng nhập tên người phụ trách"
+
+#~ msgid "Assigning"
+#~ msgstr "Đang xử lý"
+
+#~ msgid "Completed"
+#~ msgstr "Hoàn thành"
+
+#~ msgid "Account activated"
+#~ msgstr "Tai khoan da duoc kich hoat"
+
+#~ msgid "Welcome [VietQuocLab]"
+#~ msgstr "Tạo tài khoản"
+
+#~ msgid "Dear customer"
+#~ msgstr "Kính chào quý khách hàng"
+
+#~ msgid "Company"
+#~ msgstr "Công ty"
+
+#~ msgid "Change password successfull !!!"
+#~ msgstr "Đổi mật khẩu thành công !!!"
+
+#~ msgid "Expedited Shipping(until 19:00 jst)"
+#~ msgstr "Cấp tốc  (Trường hợp quá 13:00 trong ngày khi muốn đặt hàng gấp thì chọn mục này <br> thời gian đặt hàng tới 16:00 trong ngày tức là chỉ hoạt động trong 3 giờ đồng hồ)"
+
+#~ msgid "※ File type .stl/.zip"
+#~ msgstr "※ Định dạng .stl/.zip<br> Trường hợp dữ liệu file gia công  nhiều thì vui lòng tạo file zip trước khi úp lên"
+
+#~ msgid "Same-Day Delivery"
+#~ msgstr "Giao hàng trong ngày(chỉ được đặt hàng tới 13:00 trong ngày)"
+
+#~ msgid "Urgent (until 19:00 jst)"
+#~ msgstr "Cấp tốc  (Trường hợp quá 13:00 trong ngày khi muốn đặt hàng gấp thì chọn mục này <br> thời gian đặt hàng tới 16:00 trong ngày tức là chỉ hoạt động trong 3 giờ đồng hồ)"
+
+#~ msgid "Booking Complete"
+#~ msgstr "Đặt hàng thành công"
+
+#~ msgid "Booking list"
+#~ msgstr "Danh sách đặt hàng"
+
+#~ msgid "Booking detail"
+#~ msgstr "Chi tiết đặt hàng"
+
+#~ msgid "Not declared"
+#~ msgstr "Không cung cấp"
+
+#~ msgid "Search by Order number, Patient."
+#~ msgstr "Tìm kiếm theo người bênh, mã đặt hàng."
+
+#~ msgid "History Order"
+#~ msgstr "Lịch sử đặt hàng"
+
+#~ msgid "ID , Patitent Name , Phone Number"
+#~ msgstr "ID, tên người bệnh, số điện thoại"
+
+#~ msgid "Sex"
+#~ msgstr "Giới tính"
+
+#~ msgid "Questions"
+#~ msgstr "Câu hỏi"
+
+#~ msgid "Address , Postal code  Please enter numbers Ex 12234567"
+#~ msgstr "Mã bưu điện, chỉ nhập số"
+
+#~ msgid "CompanyName"
+#~ msgstr "Tên công ty"
+
+#~ msgid "field '"
+#~ msgstr "ô '"
+
+#~ msgid "' in table "
+#~ msgstr "' trong bảng "
+
+#~ msgid " (where "
+#~ msgstr " (với điều kiện "
+
+#~ msgid " from '"
+#~ msgstr " từ '"
+
+#~ msgid "' to '"
+#~ msgstr "' thành '"
+
+#~ msgid "UPDATE"
+#~ msgstr "CẬP NHẬT"
+
+#~ msgid "INSERT"
+#~ msgstr "THÊM MỚI"
+
+#~ msgid "was %s"
+#~ msgstr "đã  %s"
+
+#~ msgid "Please select a valid delivery time"
+#~ msgstr "Vui lòng chọn ngày giao hàng khác"
+
+#~| msgid "Status"
+#~ msgid "Status faq"
+#~ msgstr "Trạng thái"
+
+#~ msgid "Not found"
+#~ msgstr "Đã bị xóa"
+
+#~ msgid "Posted by: %s <small class=\"text-muted\">- %s</small>"
+#~ msgstr "Đăng bởi: %s <small class=\"text-muted\">- %s</small>"
+
+#~ msgid " and payment status is mark as paid"
+#~ msgstr " và đã thanh toán"
+
+#~ msgid " and payment status is partial payment"
+#~ msgstr " và mới thanh toán một phần"
+
+#~ msgid "Vietquoc contact form"
+#~ msgstr "Thông tin liên hê"
+
+#~ msgid "Customer Code"
+#~ msgstr "Mã khách hàng"
+
+#~ msgid "About Order"
+#~ msgstr "Về đặt hàng"
+
+#~ msgid "About Manufacturing"
+#~ msgstr "Về dụng cụ gia công"
+
+#~ msgid "Checker"
+#~ msgstr "Người kiểm tra"
+
+#~ msgid "Order list filter by keyword: %s %s"
+#~ msgstr "Danh sách đơn hàng lọc theo từ khóa: %s %s"
+
+#~ msgid "All orders %s"
+#~ msgstr "Tất cả đơn hàng %s"
+
+#~ msgid ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tLanguage was set successfully!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+#~ msgstr ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tĐã lưu cài đặt ngôn ngữ!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+
+#~ msgid ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tPrice was set successfully!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+#~ msgstr ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tĐã lưu cài đặt giá!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+
+#~ msgid ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tMail was set successfully!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+#~ msgstr ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tĐã lưu cài đặt email!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+
+#~ msgid ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tPolicy was saved successfully!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+#~ msgstr ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tCác qui định đã được cập nhật!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+
+#~ msgid ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tUrgent Price setting was set successfully!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+#~ msgstr ""
+#~ "<div class=\"alert alert-success\" role=\"alert\">\n"
+#~ "\t\t\t\t\t\t\t\t\tĐã lưu cài đặt giá!\n"
+#~ "\t\t\t\t\t\t\t\t  </div>"
+
+#~ msgid "<span class=\"badge badge-danger customer-badge\">Pending</span>"
+#~ msgstr "<span class=\"badge badge-danger customer-badge\">Chờ xử lý</span>"
+
+#~ msgid "<span class=\"badge badge-warning text-white customer-badge\">Assigning</span>"
+#~ msgstr "<span class=\"badge badge-warning text-white customer-badge\">Đang xử lý</span>"
+
+#~ msgid "<span class=\"badge badge-primary customer-badge\">Processing</span>"
+#~ msgstr "<span class=\"badge badge-primary customer-badge\">Đang gia công</span>"
+
+#~ msgid "<span class=\"badge badge-info text-white customer-badge\">Completed</span>"
+#~ msgstr "<span class=\"badge badge-info text-white customer-badge\">Đã hoàn thành</span>"
+
+#~ msgid "<span class=\"badge badge-success customer-badge\">Delivered</span>"
+#~ msgstr "<span class=\"badge badge-success customer-badge\">Đã giao</span>"
+
+#~ msgid "Number of Patients"
+#~ msgstr "Tổng số bệnh nhân"
+
+#~ msgid "<span class=\"badge badge-warning customer-badge\">Unpaid</span>"
+#~ msgstr "<span class=\"badge badge-warning customer-badge\">Chờ thanh toán</span>"
+
+#~ msgid "<span class=\"badge badge-success customer-badge\">Paid</span>"
+#~ msgstr "<span class=\"badge badge-success customer-badge\">Đã thanh toán</span>"
+
+#~ msgid "※ Extra charge (per one + %s JPY tax included)"
+#~ msgstr "※ Có phụ thu (mỗi răng cộng thêm %s&#37;)"
+
+#~ msgid "Credit Card Number"
+#~ msgstr "Số thẻ tín dụng"
+
+#~ msgid "You have %d unread messages"
+#~ msgstr "Bạn có %d tin nhắn mới"
+
+#~ msgid "You have %d unread message"
+#~ msgstr "Bạn có %d tin nhắn mới"
+
+#~ msgid "View all message"
+#~ msgstr "Xem tất cả"
+
+#~ msgid "You have no mesage"
+#~ msgstr "Bạn không có tin nhắn nào"
+
+#~ msgid "Invoice"
+#~ msgstr "Trả sau"
+
+#~ msgid "Bank Transfer"
+#~ msgstr "Thanh toán qua ngân hàng"
+
+#~ msgid "Patient: %s - Password to download: %s <br>"
+#~ msgstr "Tên bệnh nhân: %s - Mật khẩu để tải file: %s <br>"
+
+#~ msgid "<span class=\"badge badge-danger customer-badge\">Invoice</span>"
+#~ msgstr "<span class=\"badge badge-danger customer-badge\">Trả sau</span>"
+
+#~ msgid "Data is ready for download"
+#~ msgstr "Dữ liệu đã sẵng sàng đê tải về"
+
+#~ msgid "<h4><strong>Notice</strong></h4>Edit member successfull !!!"
+#~ msgstr "<h4><strong>Thông báo</strong></h4>Edit member successfull !!!"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Tiếng Việt"
+
+#~ msgid "Japanese"
+#~ msgstr "Tiếng Japan"
+
+#~ msgid "Thank you for your inquiry. Depending on the content, it may take time to give an answer. In addition, please note that holidays will be available after the next business day."
+#~ msgstr "Cảm ơn bạn đã liên hệ với chúng tôi . Tùy theo nội dung câu hỏi trường hợp trả lời chậm cũng có ,nếu trúng vào ngày nghỉ lễ thì sẽ được trả lời vào ngày làm việc."
+
+#~ msgid "Dear"
+#~ msgstr "Kính gởi"
+
+#~ msgid "This email is an automatic email<br>Our representative will contact you within 2 business days<br>If you do not get in touch within 2 business days, there may be a problem with your mail server, so please contact us by phone.<br>Phone number (084) 08.37271267, (084) 08.37271 268<br>"
+#~ msgstr "Email này là một email tự động <br> Đại diện của chúng tôi sẽ liên lạc với bạn trong vòng 2 ngày làm việc <br> nếu bạn không nhận được liên lạc trong vòng 2 ngày làm việc, có thể có vấn đề với máy chủ SMTP, vì vậy vui lòng liên hệ với chúng tôi qua điện thoại. <br> Số điện thoại (084) 08,37271267, (084) 08,37271 268 <br>"
+
+#~ msgid "<font size=\"2\">If you have any comments or questions, please do not hesitate to reach us a <a style=\"color:#5b9bd5\" href=\"mailto:info@vietquoc.vn\">info@vietquoc.vn</a></font><br><br><br>Best regards,<br>Rang Su Viet Quoc Group<br>"
+#~ msgstr "<font size=\"2\">Nếu bạn có bất kỳ ý kiến hoặc câu hỏi nào, vui lòng liên hệ với chúng tôi tại <a style=\"color:#5b9bd5\" href=\"mailto:info@vietquoc.vn\">info@vietquoc.vn</a></font><br><br><br>Trân trọng,<br>Rang Su Viet Quoc Group<br>"
+
+#~ msgid "Number statistic"
+#~ msgstr "Mỗi ngày một con số"
+
+#~ msgid "※ Display the number of today items requested to be delivery but have not been delivered yet"
+#~ msgstr "※ Hiển thị số lượng đơn hàng chờ kiểm tra và đơn hàng đã giao"
+
+#~ msgid "Register Now!"
+#~ msgstr "Đăng ký ngay!"
+
+#~ msgid "Please select VITA Shade"
+#~ msgstr "Vui lòng hãy chọn chỉ định"
+
+#~ msgid "<strong>Success</strong>"
+#~ msgstr "<strong>Thành công</strong>"
+
+#~ msgid "Success"
+#~ msgstr "Thành công"
+
+#~ msgid "Add new post"
+#~ msgstr "Tạo bài mới"
+
+#~ msgid "Edit post"
+#~ msgstr "Chỉnh sửa bài viết"
+
+#~ msgid "Add new frequently asked questions"
+#~ msgstr "Thêm câu hỏi mới"
+
+#~ msgid "Edit frequently asked questions"
+#~ msgstr "Chỉnh sửa câu hỏi thường gặp"
+
+#~ msgid "Patient number"
+#~ msgstr "Số bệnh nhân"
+
+#~ msgid "Account info"
+#~ msgstr "Thông tin tài khoản"
+
+#~ msgid "[vietuqoclab]Welcome"
+#~ msgstr "[vietuqoclab]Chào mừng bạn"
+
+#~ msgid "Welcome\n"
+#~ msgstr "Chúc mừng bạn\n"
+
+#~ msgid "Rang Su Viet Quoc Group\n"
+#~ msgstr "Răng sứ Việt Quốc Group\n"
+
+#~ msgid "27 Street No.3\n"
+#~ msgstr "Số 27, đường số 3\n"
+
+#~ msgid "Hiep Binh Phuoc Ward\n"
+#~ msgstr "Phường Hiệp Bình Phước\n"
+
+#~ msgid "Thu Đuc Distric, HCMC\n"
+#~ msgstr "Quận Thủ Đức, Tp. HCM\n"
+
+#~ msgid "TEL : (084) 08.37271267 , 08.37271 268 , Fax : 08.37271910\n"
+#~ msgstr "Điện thoại : (084) 08.37271267 , 08.37271 268 , Fax : 08.37271910\n"
+
+#~ msgid "Model"
+#~ msgstr "Mẫu"
+
+#~ msgid "Message is require"
+#~ msgstr "Nội dung là bắt buộc"
+
+#~ msgid "This email is an automatic email\n"
+#~ msgstr "Đây là email tự động\n"
+
+#~ msgid "Our representative will contact you within 2 business days\n"
+#~ msgstr "Đại diện của chúng tôi sẽ liên lạc với bạn trong vòng 2 ngày làm việc\n"
+
+#~ msgid "Download File CSV"
+#~ msgstr "Tải file CSV"
+
+#~ msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#~ msgstr "Nếu bạn chưa có tài khoản, hãy đăng ký tài khoản ngay hôm nay để truy cập và thực hiện các thao tác trên hệ thống."
+
+#~ msgid "<span class=\"badge badge-warning\">Assigning</span>"
+#~ msgstr "<span class=\"badge badge-warning\">Đang xử lý</span>"
+
+#~ msgid "<span class=\"badge badge-info\">Completed</span>"
+#~ msgstr "<span class=\"badge badge-info\">Đã hoàn thành</span>"
